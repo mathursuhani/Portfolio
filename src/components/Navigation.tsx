@@ -14,6 +14,7 @@ export default function Navigation({ isOpen, setIsOpen }: NavigationProps) {
     { label: 'Education', href: '#education' },
     { label: 'Projects', href: '#projects' },
     { label: 'Skills', href: '#skills' },
+    { label: 'Resume', href: '#resume' },
     { label: 'Contact', href: '#contact' }
   ];
 
